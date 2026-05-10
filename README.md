@@ -1,2 +1,2 @@
-# AI-Driven-Movie-Recommendation-System
-AI-Driven Emotion-Aware Movie Recommendation System using Machine Learning and Deep Learning techniques such as Collaborative Filtering, Sentiment Analysis, TF-IDF, Logistic Regression, NeuMF, and Encoder models to provide personalized and accurate movie recommendations based on user preferences and emotions.
+The 3rd dataset used in this project is the IMDb Dataset of 50K Movie Reviews, which is used for sentiment analysis. The dataset can be easily downloaded from Kaggle: [IMDb Dataset of 50K Movie Reviews]
+//www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/data
